@@ -9,6 +9,8 @@ public class Hello {
 	public void Demo1()
 	{
 		System.out.println("Output 1");
+		System.out.println("Output 2");
+		System.out.println("Output 3");
 	}
 	
 	//A second test case can be defined just by giving another @Test Annotation
