@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DemoSuite">
+	<test thread-count="5" name="DemoTest1">
+		<parameter name="Premier" value="Match Day"></parameter>
+		<classes>
+			<class name="Pack1.Hello"></class>
+			<class name="Pack1.Bye"></class>
+			<class name="Pack1.Iuejeva"></class>
+		</classes>
+	</test>
+	<test name="DemoTest2">
+		<classes>
+			<class name="Pack1.Hollla"></class>
+		</classes>
+	</test><!-- Test -->
+	<parameter name="URL" value="Arsenal.com"></parameter>
+	<parameter name="Return" value="MCI vs ARS"></parameter>
+	<listeners>
+		<listener class-name="Pack1.Listenn"></listener>
+	</listeners>
+</suite><!-- Suite -->
