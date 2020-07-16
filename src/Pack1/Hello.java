@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println("Output 1");
 		System.out.println("Output 2");
 		System.out.println("Output 3");
+		System.out.println("Demo Push");
 	}
 	
 	//A second test case can be defined just by giving another @Test Annotation
@@ -21,6 +22,7 @@ public class Hello {
 	{
 		System.out.println("Output 2");
 		System.out.println(English);
+		System.out.println("Arsenal beat Liverpool");
 	}
 }
 

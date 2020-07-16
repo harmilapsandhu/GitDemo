@@ -44,13 +44,19 @@ public class Iuejeva {
 	@Test
 	public void MobileDemo9()
 	{
-		System.out.println("Output Mobile 9");
+		System.out.println("Emi made a save of the season");
 	}
 	
 	@Test
 	public void MobileDemo10()
 	{
 		System.out.println("Output Mobile 10");
+	}
+	
+	@Test
+	public void MobileDemo101()
+	{
+		System.out.println("Holding had Mane in his back pocket");
 	}
 	
 	@BeforeTest
