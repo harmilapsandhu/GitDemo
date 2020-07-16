@@ -59,6 +59,12 @@ public class Iuejeva {
 		System.out.println("Holding had Mane in his back pocket");
 	}
 	
+	@Test
+	public void MobileDemo102()
+	{
+		System.out.println("Laca with a goal and assist");
+	}
+	
 	@BeforeTest
 	public void Demo11()
 	{
