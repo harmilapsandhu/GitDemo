@@ -28,8 +28,9 @@
 //To delete a branch: git branch -d <branchName>
 
 //To merge branches into master branch:
-//First goto master branch using git checkout master, then pull the latest code using git pull origin master
+//First goto master branch using git checkout master, then pull the latest code using git pull origin master(guess not needed)
 //git merge <branchName to be merged>  This will merge the given branch to active branch
+//Then git push origin master
 
 
 //public class Git_Basic {
