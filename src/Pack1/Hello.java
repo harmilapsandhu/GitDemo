@@ -12,6 +12,7 @@ public class Hello {
 		System.out.println("Output 2");
 		System.out.println("Output 3");
 		System.out.println("Demo Push");
+		System.out.println("Tea Skip");
 	}
 	
 	//A second test case can be defined just by giving another @Test Annotation
