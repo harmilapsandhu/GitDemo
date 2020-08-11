@@ -6,10 +6,10 @@ d
 
 
 Numbers
-1
-2
-3
-4
+1 Keeper
+2 Full Back
+3 Defender
+4 Defender
 5
 6
 7
